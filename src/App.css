@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+body {
+  background: -webkit-linear-gradient(to right, #6DD5FA, #2980B9);
+  background: linear-gradient(to right, #6DD5FA, #2980B9); 
+  font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  margin: 2rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+
+}
